@@ -1,5 +1,7 @@
-Simply used the faker API to cerate a fake X (Twitter) backned.
+Simply used the Faker API to create a fake X (Twitter) backend.
 
-Once loaded, what you should see in your console is a dynamically generated object that represents a tweet, with a dynamically generated number of comments for that tweet.
+https://fakerjs.dev/guide/
+
+Once loaded, you will see in your console a dynamically generated object that represents all the data involved in displaying a tweet, with an array of dynamically generated comment objects for that tweet.
 
 This is simply practise for working with unknown quantities of data.
